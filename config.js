@@ -13,7 +13,7 @@ var config = {
     desc: {
         turn_on: "one",
         play: "two",
-        bannar_coming: "three"，
+        bannar_coming: "three",
         balloons_flying: "four",
         cake_fadein: "five",
         light_candle: "six",
