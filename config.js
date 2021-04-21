@@ -7,17 +7,17 @@ var config = {
         "愿你云卷云舒心恒愈",
         "愿你日常开心夜深宁静",
         "愿你一生被爱一生有爱",
-        "生日快乐，笔芯芯",
+        "小主生日快乐",
     ],
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "one",
-        play: "two",
-        bannar_coming: "three",
-        balloons_flying: "four",
-        cake_fadein: "five",
-        light_candle: "six",
-        wish_message: "seven",
-        story: "A MESSAGE FOR YOU",
+        turn_on: "走一个",
+        play: "踏两步",
+        bannar_coming: "抖三抖",
+        balloons_flying: "这是4",
+        cake_fadein: "污污污",
+        light_candle: "666",
+        wish_message: "777",
+        story: "给小主的",
     }
 };
